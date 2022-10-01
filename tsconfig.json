@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "removeComments": true,
+        "allowUnreachableCode": false,
+        "strictNullChecks": true,
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "target": "ES6"
+    },
+    "files": [
+        "./src/js/JKchess.ts"
+    ]
+}
