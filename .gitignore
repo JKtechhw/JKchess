@@ -1,3 +1,6 @@
 *.css
 *.js
 *.map*
+src/dist/
+package-lock.json
+node_modules/
